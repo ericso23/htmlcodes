@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.table, tr, th, td {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+.linki {
+    text-decoration: none;
+}

@@ -1,0 +1,70 @@
+body {
+    background-color:rgb(207, 130, 130);
+    height: 100px;
+}
+.class1,.class2,.class3,.class4,.class5 {
+    width: 50%;
+    height: 150px;
+    margin-left: 350px;
+    margin-right: 350px;
+   
+}
+.we {
+    align-content: center;
+}
+.logo {
+    color: azure;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.class1 {
+    background-color: rgb(26, 28, 44);
+    height: 200px;
+}
+.class1 ul ul {
+    display:flex;
+    text-align: right;
+    position: absolute;
+    top: 1px;
+    right:300px;
+}
+.class1 ul ul li {
+    list-style: none;
+    text-decoration: none;
+    padding: 30px;
+    font-size: small;
+    display: inline-block;
+    
+   
+}
+.class1 ul ul li a {
+    text-decoration: none;
+     list-style: none;
+     color: beige;
+
+
+}
+.class2 {
+    background-color: rgb(255, 255, 255);
+}
+.class3 {
+    background-color: rgb(192, 190, 190);
+}
+.class4 {
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+.class5 {
+    background-color: rgb(26, 28, 44);
+    height: 35px;
+}
+.small {
+    color: beige;
+    margin-left: 75px;
+    
+    margin-left:inherit;
+}
+.short {
+    font-size: smaller;
+    font-weight: bold;
+}

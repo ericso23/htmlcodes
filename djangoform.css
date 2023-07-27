@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(131, 136, 139);
+}
+.django1 {
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    width: 230px;
+    height:  220px;
+    border: 5px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+
+}
+.label1 {
+    text-align: left;
+}
+.topline {
+    text-align: left;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.tom {
+    text-align: center;
+    margin-bottom: 500zpx;
+}
+.log
+ {
+    margin-left: 50px;
+ }
+ .submit {
+    padding: 10px;
+    width: 180px;
+    border-radius: 10px;
+    background-color: rgb(34, 132, 197);
+    color: beige;
+    font-size:small;
+    border: 1px;
+    list-style: none;
+    text-decoration: none;
+ }
+ .label3 {
+    padding: 5px;
+    bottom: 0px;
+    width: 210px;
+    border-radius: 5px;
+ }
+ .label1 {
+    margin-left: -110px;
+ }
+ .label2 {
+    margin-left: -110px;
+ }
+ .forgot {
+    text-align: left;
+    margin-left: 140px;
+    margin-top: 10px;
+    color: black;
+}
+.forgot {
+    text-decoration: none;
+}
+.forgot a:hover{
+    color: rgb(31, 28, 28);
+}
+.all {
+    margin-left: 400px;
+}

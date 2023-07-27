@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(235, 236, 214);
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.big {
+    margin-left: 40px;
+}
+.small {
+    margin-left: 60px;
+}
+.media {
+    margin-top: -30px;
+    margin-left: 400px;
+}
+.web {
+    margin-top: -10px;
+    margin-left: 40px;
+}
+.up {
+    margin-top: 50px;
+    text-decoration: none;
+    margin-left: 30px;
+   
+}
+.menu a{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: small;
+    margin-top: 10px;
+    
+}
+.imagee {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.escape {
+    margin-left: 100px;
+    font-size: small;
+}
+.being {
+    margin-left: 100px;
+    font-size: small;    
+}
+.beingg {
+    margin-left: 100px;
+}
+.fine {
+    margin-left:400px;
+    margin-top: -274px;
+}
+.imagee2 {
+    width: 80px;
+    height: 80px;
+ 
+}
+.imagee3 {
+    width: 80px;
+    height: 80px;
+   
+}
+.imagee2 {
+    width: 80px;
+    height: 80px;
+}
+.where {
+    margin-left: 100px;
+    margin-top: -110px;
+}
+.growth {
+    margin-left: 100px;
+}
+.tom {
+    margin-left: 100px;
+}
+.images {
+    margin-left: 780px;
+    margin-top: -500px;
+    
+}
+.hr {
+    margin-top: 40px;
+}
+.imagess {
+    margin-left: 780px;
+}

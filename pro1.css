@@ -1,0 +1,106 @@
+body{
+    background: rgb(171, 197, 119);
+    height: 20px;
+
+}
+.tuu{
+    background-color: rgb(101, 108, 112);
+    font-size: small;
+    position: absolute;
+    top: 10px;
+    margin-top: -10px;
+    color: rgb(39, 33, 33);
+    width:100%;
+    height: 45px;
+}
+.class1{
+    background-color: rgb(223, 176, 155);
+    position: absolute;
+    top: 24%;
+    margin-top: -8%;
+    margin-left: opx;
+    position: absolute;
+    width: 30%;
+    height: 600px;
+ 
+}
+.you{
+    font-family: Arial;
+    color: rgba(235, 184, 17, 0.877);
+    margin-left: 10px; 
+    margin-bottom: 20px;
+    cursor: pointer;
+    text-decoration:antiquewhite;
+}
+.dinner{
+    font-size: small;
+    font-family: Arial;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    color: aliceblue;
+}
+.eric{
+    margin-left: 37%;
+    margin-top: 8%;
+    margin-top: 10px;
+}
+.menuu{
+    color: aliceblue;
+    text-align: center;
+    position: absolute;
+    right: 10%;
+    top: 40px;
+    text-decoration: none;
+    font-size: medium;
+    background-color: rgb(219, 174, 25);
+    
+}
+
+.blue{
+   
+   border-radius: 10px;
+   width: 60%;
+   height: 30px;
+   border: 1px rgb(86, 86, 141);
+   background-color: rgb(26, 73, 30);
+   color: beige;
+   font-weight: 700px;
+
+
+}
+.menuu{
+    color: rgb(255, 255, 255);
+    word-spacing: 50px;
+    float: left;
+    margin-right: 10px;
+    font-size: large;
+    padding: 10px;
+    width: 800px;   
+    position: absolute;
+    right: 10px;
+    top: 30px;
+}
+.menuu a{
+    text-decoration: none;
+}
+.them {
+    background-color: rgb(108, 179, 15);
+    width: 40px;
+    height: 40px;
+    margin-top: -5%;
+    margin-right: 10px;
+    border: 0;
+}
+.bavu {
+   margin-top: 25%;
+   color: rgb(21, 21, 51);
+
+}
+.ericc {
+    color: rgb(162, 231, 49);
+}
+.webwall {
+    background-image: url(webwall.jpg.jpg);
+    width: 100%;
+    height: 640px;
+}

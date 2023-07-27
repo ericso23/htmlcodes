@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right,#9c27b0,#8ecdff);
+    
+}
+.formdetail {
+    background-color: rgb(238, 243, 241);
+    width: 450px;
+    height: 380px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.reg {
+    margin-left: 15px;
+}
+.rightside {
+    margin-left: 250px;
+    margin-top: -128px;
+}
+.leftside {
+    margin-left: 15px;
+}
+.gender {
+    margin-left: 15px;
+}
+.button1 {
+    background: linear-gradient(to right,#9c27b0,#8ecdff);
+    width: 400px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.text1 {
+    padding: 4px;
+    border: 1px solid rgb(115, 115, 175);
+}
+.put {
+    color: antiquewhite;
+    text-decoration: none;
+}
